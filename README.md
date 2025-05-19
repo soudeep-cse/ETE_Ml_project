@@ -1,6 +1,6 @@
 # ETE_Ml_project
 
-# Add virtual environment
+# Create virtual environment
 
 ```bash
 python -m venv MyEnv
