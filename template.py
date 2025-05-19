@@ -1,1 +1,3 @@
-print("Hello world")
+import os
+
+print("Import Os succesfully")
