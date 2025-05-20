@@ -1,1 +1,4 @@
-from src.mlProject.config.cofiguration import Myfunc
+from src.mlProject import logger
+
+logger.info("This is custom log!")
+logger.info("soudeep")

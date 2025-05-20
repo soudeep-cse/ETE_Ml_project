@@ -1,4 +1,5 @@
-# Using this one instead of use logger folder
+# Optional(Creating logger and then use logging)
+
 import os
 import sys
 import logging
