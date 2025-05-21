@@ -1,8 +1,35 @@
-2025-05-20 12:50:12,783 : INFO : main : This is custom log!
-2025-05-20 12:51:21,602 : INFO : main : This is custom log!
-2025-05-20 12:51:51,679 : INFO : main : This is custom log!
-2025-05-20 12:51:51,679 : INFO : main : This is second custom log message!
-2025-05-20 13:13:38,900 : INFO : main : This is custom log!
-2025-05-20 13:13:38,901 : INFO : main : This is second custom log message!
-2025-05-20 13:15:07,292 : INFO : main : This is custom log!
-2025-05-20 13:15:07,293 : INFO : main : soudeep
+2025-05-21 15:24:14,864 : INFO : main : >>01 stageData Ingestion stage started.........<<
+2025-05-21 15:24:14,866 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-21 15:24:14,867 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-21 15:24:14,869 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-21 15:24:14,870 : INFO : common : created directory at: artifacts
+2025-05-21 15:24:14,870 : INFO : common : created directory at: artifacts/data_ingestion
+2025-05-21 15:24:16,139 : INFO : data_ingestion_component : artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 26148
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "d9fccfa514183dfc3e92042446614fd698dbaee53a73a620815683d730cd5483"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A92A:2B730B:507DC5:596909:682D90DC
+Accept-Ranges: bytes
+Date: Wed, 21 May 2025 09:24:16 GMT
+Via: 1.1 varnish
+X-Served-By: cache-sin-wsss1830023-SIN
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1747819456.701143,VS0,VE441
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 0b211cbecb784808ca30ad4e0ef35a7f19c8140e
+Expires: Wed, 21 May 2025 09:29:16 GMT
+Source-Age: 0
+
+
+2025-05-21 15:24:16,212 : INFO : main : >>stageData Ingestion stage completed.........<<
+
