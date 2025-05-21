@@ -33,3 +33,65 @@ Source-Age: 0
 
 2025-05-21 15:24:16,212 : INFO : main : >>stageData Ingestion stage completed.........<<
 
+2025-05-21 22:43:39,061 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-21 22:43:39,096 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-21 22:43:39,100 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-21 22:43:39,102 : INFO : common : created directory at: artifacts
+2025-05-21 22:43:39,103 : INFO : common : created directory at: artifacts/data_validation
+2025-05-21 22:45:31,353 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-21 22:45:31,356 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-21 22:45:31,361 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-21 22:45:31,364 : INFO : common : created directory at: artifacts
+2025-05-21 22:45:31,367 : INFO : common : created directory at: artifacts/data_validation
+2025-05-21 22:45:31,376 : INFO : 3280853632 : >>Completed Data validation<<
+2025-05-21 22:45:31,379 : INFO : 3280853632 : >>Completed Data validation<<
+2025-05-21 22:45:31,382 : INFO : 3280853632 : >>Completed Data validation<<
+2025-05-21 22:45:31,383 : INFO : 3280853632 : >>Completed Data validation<<
+2025-05-21 22:45:31,385 : INFO : 3280853632 : >>Completed Data validation<<
+2025-05-21 22:45:31,387 : INFO : 3280853632 : >>Completed Data validation<<
+2025-05-21 22:45:31,390 : INFO : 3280853632 : >>Completed Data validation<<
+2025-05-21 22:45:31,393 : INFO : 3280853632 : >>Completed Data validation<<
+2025-05-21 22:45:31,396 : INFO : 3280853632 : >>Completed Data validation<<
+2025-05-21 22:45:31,400 : INFO : 3280853632 : >>Completed Data validation<<
+2025-05-21 22:45:31,404 : INFO : 3280853632 : >>Completed Data validation<<
+2025-05-21 22:45:31,406 : INFO : 3280853632 : >>Completed Data validation<<
+2025-05-21 22:46:50,526 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-21 22:46:50,528 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-21 22:46:50,532 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-21 22:46:50,535 : INFO : common : created directory at: artifacts
+2025-05-21 22:46:50,537 : INFO : common : created directory at: artifacts/data_validation
+2025-05-21 22:46:50,546 : INFO : 530692623 : >>Completed Data validation<<
+2025-05-21 22:46:50,549 : INFO : 530692623 : >>Completed Data validation<<
+2025-05-21 22:46:50,552 : INFO : 530692623 : >>Completed Data validation<<
+2025-05-21 22:46:50,554 : INFO : 530692623 : >>Completed Data validation<<
+2025-05-21 22:46:50,556 : INFO : 530692623 : >>Completed Data validation<<
+2025-05-21 22:46:50,558 : INFO : 530692623 : >>Completed Data validation<<
+2025-05-21 22:46:50,560 : INFO : 530692623 : >>Completed Data validation<<
+2025-05-21 22:46:50,563 : INFO : 530692623 : >>Completed Data validation<<
+2025-05-21 22:46:50,565 : INFO : 530692623 : >>Completed Data validation<<
+2025-05-21 22:46:50,568 : INFO : 530692623 : >>Completed Data validation<<
+2025-05-21 22:46:50,571 : INFO : 530692623 : >>Completed Data validation<<
+2025-05-21 22:46:50,574 : INFO : 530692623 : >>Completed Data validation<<
+2025-05-21 22:47:32,576 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-21 22:47:32,579 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-21 22:47:32,583 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-21 22:47:32,586 : INFO : common : created directory at: artifacts
+2025-05-21 22:47:32,588 : INFO : common : created directory at: artifacts/data_validation
+2025-05-21 23:12:42,618 : INFO : main : >>01 stageData Ingestion stage started.........<<
+2025-05-21 23:12:42,620 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-21 23:12:42,621 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-21 23:12:42,622 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-21 23:12:42,623 : INFO : common : created directory at: artifacts
+2025-05-21 23:12:42,623 : INFO : common : created directory at: artifacts/data_ingestion
+2025-05-21 23:12:42,623 : INFO : data_ingestion_component : File already exists and size: ~ 26 KB
+2025-05-21 23:12:42,687 : INFO : main : >>stageData Ingestion stage completed.........<<
+
+2025-05-21 23:12:42,688 : INFO : main : >>>>>> stage Data validation stage started <<<<<<
+2025-05-21 23:12:42,690 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-21 23:12:42,691 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-21 23:12:42,693 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-21 23:12:42,694 : INFO : common : created directory at: artifacts
+2025-05-21 23:12:42,694 : INFO : common : created directory at: artifacts/data_validation
+2025-05-21 23:12:42,725 : INFO : main : >>>>>> stage Data validation stage completed <<<<<<
+
+x==========x
