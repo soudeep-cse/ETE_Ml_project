@@ -1,5 +1,7 @@
 # ETE_Ml_project
 
+In this project,I am working with CI/CD pipeline(Data Ingestion, validation, transformation, training, prediction pipeline(with html,css,js and FastAPI) with deployment.  
+
 ## Workflow
 
 1. update config.yaml
