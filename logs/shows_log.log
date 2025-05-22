@@ -95,3 +95,430 @@ Source-Age: 0
 2025-05-21 23:12:42,725 : INFO : main : >>>>>> stage Data validation stage completed <<<<<<
 
 x==========x
+2025-05-22 13:33:43,833 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 13:33:43,892 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 13:33:43,914 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 13:33:43,918 : INFO : common : created directory at: artifacts
+2025-05-22 13:36:08,657 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 13:36:08,660 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 13:36:08,664 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 13:36:08,666 : INFO : common : created directory at: artifacts
+2025-05-22 13:36:44,924 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 13:36:44,927 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 13:36:44,934 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 13:36:44,937 : INFO : common : created directory at: artifacts
+2025-05-22 13:37:26,300 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 13:37:26,303 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 13:37:26,307 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 13:37:26,309 : INFO : common : created directory at: artifacts
+2025-05-22 13:37:57,054 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 13:37:57,058 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 13:37:57,063 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 13:37:57,066 : INFO : common : created directory at: artifacts
+2025-05-22 13:45:45,341 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 13:45:45,344 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 13:45:45,349 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 13:45:45,351 : INFO : common : created directory at: artifacts
+2025-05-22 13:45:45,353 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 13:47:08,185 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 13:47:08,188 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 13:47:08,194 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 13:47:08,197 : INFO : common : created directory at: artifacts
+2025-05-22 13:47:08,199 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 13:47:57,247 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 13:47:57,250 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 13:47:57,256 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 13:47:57,258 : INFO : common : created directory at: artifacts
+2025-05-22 13:47:57,261 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 13:47:57,355 : INFO : 381396611 : Splited data into training and test sets
+2025-05-22 13:47:57,357 : INFO : 381396611 : (1279, 12)
+2025-05-22 13:47:57,358 : INFO : 381396611 : (320, 12)
+2025-05-22 13:51:55,272 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 13:51:55,276 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 13:51:55,282 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 13:51:55,284 : INFO : common : created directory at: artifacts
+2025-05-22 13:51:55,287 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 13:51:55,310 : INFO : 2608683761 : fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+dtype: int64
+2025-05-22 13:51:55,349 : INFO : 2608683761 : Splited data into training and test sets
+2025-05-22 13:51:55,350 : INFO : 2608683761 : (1279, 12)
+2025-05-22 13:51:55,350 : INFO : 2608683761 : (320, 12)
+2025-05-22 13:56:16,736 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 13:56:16,739 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 13:56:16,744 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 13:56:16,747 : INFO : common : created directory at: artifacts
+2025-05-22 13:56:16,749 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 13:56:16,757 : INFO : 2859810293 : fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+dtype: int64
+2025-05-22 13:56:16,799 : INFO : 2859810293 : Splited data into training and test sets
+2025-05-22 13:56:16,800 : INFO : 2859810293 : (1279, 12)
+2025-05-22 13:56:16,802 : INFO : 2859810293 : (320, 12)
+2025-05-22 14:04:38,331 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 14:04:38,334 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 14:04:38,341 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 14:04:38,343 : INFO : common : created directory at: artifacts
+2025-05-22 14:04:38,346 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 14:04:38,356 : INFO : 1926116352 : Missing values per column:
+fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+dtype: int64
+2025-05-22 14:05:22,615 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 14:05:22,619 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 14:05:22,625 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 14:05:22,628 : INFO : common : created directory at: artifacts
+2025-05-22 14:05:22,630 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 14:05:22,641 : INFO : 999303814 : Missing values per column:
+fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+dtype: int64
+2025-05-22 14:06:29,370 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 14:06:29,373 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 14:06:29,379 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 14:06:29,381 : INFO : common : created directory at: artifacts
+2025-05-22 14:06:29,383 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 14:06:29,394 : INFO : 999303814 : Missing values per column:
+fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+dtype: int64
+2025-05-22 14:06:44,912 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 14:06:44,914 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 14:06:44,918 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 14:06:44,921 : INFO : common : created directory at: artifacts
+2025-05-22 14:06:44,923 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 14:06:44,932 : INFO : 212931709 : Missing values per column:
+fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+dtype: int64
+2025-05-22 14:07:27,022 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 14:07:27,025 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 14:07:27,030 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 14:07:27,032 : INFO : common : created directory at: artifacts
+2025-05-22 14:07:27,036 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 14:07:27,044 : INFO : 3547293903 : Missing values per column:
+fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+dtype: int64
+2025-05-22 14:07:27,058 : INFO : 3547293903 : None
+2025-05-22 14:07:27,097 : INFO : 3547293903 :        fixed acidity  volatile acidity  ...      alcohol      quality
+count    1599.000000       1599.000000  ...  1599.000000  1599.000000
+mean        8.319637          0.527821  ...    10.422983     5.636023
+std         1.741096          0.179060  ...     1.065668     0.807569
+min         4.600000          0.120000  ...     8.400000     3.000000
+25%         7.100000          0.390000  ...     9.500000     5.000000
+50%         7.900000          0.520000  ...    10.200000     6.000000
+75%         9.200000          0.640000  ...    11.100000     6.000000
+max        15.900000          1.580000  ...    14.900000     8.000000
+
+[8 rows x 12 columns]
+2025-05-22 14:07:50,906 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 14:07:50,908 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 14:07:50,915 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 14:07:50,917 : INFO : common : created directory at: artifacts
+2025-05-22 14:07:50,920 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 14:07:50,927 : INFO : 3048595161 : Missing values per column:
+fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+dtype: int64
+2025-05-22 14:07:50,942 : INFO : 3048595161 : None
+2025-05-22 14:12:30,255 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 14:12:30,258 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 14:12:30,263 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 14:12:30,266 : INFO : common : created directory at: artifacts
+2025-05-22 14:12:30,268 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 14:12:30,276 : INFO : 1829050280 : Missing values per column:
+fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+dtype: int64
+2025-05-22 14:12:30,293 : INFO : 1829050280 : Number of duplicate rows: 240
+2025-05-22 14:12:30,296 : INFO : 1829050280 : No categorical columns detected.
+2025-05-22 14:13:13,006 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 14:13:13,011 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 14:13:13,016 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 14:13:13,019 : INFO : common : created directory at: artifacts
+2025-05-22 14:13:13,022 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 14:13:13,032 : INFO : 3987770485 : Missing values per column:
+fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+dtype: int64
+2025-05-22 14:13:13,043 : INFO : 3987770485 : Number of duplicate rows: 240
+2025-05-22 14:13:13,046 : INFO : 3987770485 : No categorical columns detected.
+2025-05-22 14:13:52,624 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 14:13:52,627 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 14:13:52,630 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 14:13:52,634 : INFO : common : created directory at: artifacts
+2025-05-22 14:13:52,637 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 14:13:52,647 : INFO : 2461712470 : Missing values per column:
+fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+dtype: int64
+2025-05-22 14:13:52,655 : INFO : 2461712470 : Number of duplicate rows: 240
+2025-05-22 14:13:52,658 : INFO : 2461712470 : No categorical columns detected.
+2025-05-22 14:13:55,165 : INFO : 2461712470 : Scaled features mean:
+fixed acidity           3.554936e-16
+volatile acidity        1.733031e-16
+citric acid            -8.887339e-17
+residual sugar         -1.244227e-16
+chlorides               2.132961e-16
+free sulfur dioxide    -6.221137e-17
+total sulfur dioxide    4.443669e-17
+density                -3.473172e-14
+pH                      2.861723e-15
+sulphates               6.754377e-16
+alcohol                 1.066481e-16
+quality                 5.636023e+00
+dtype: float64
+2025-05-22 14:13:55,184 : INFO : 2461712470 : Scaled features std dev:
+fixed acidity           1.000313
+volatile acidity        1.000313
+citric acid             1.000313
+residual sugar          1.000313
+chlorides               1.000313
+free sulfur dioxide     1.000313
+total sulfur dioxide    1.000313
+density                 1.000313
+pH                      1.000313
+sulphates               1.000313
+alcohol                 1.000313
+quality                 0.807569
+dtype: float64
+2025-05-22 14:13:57,739 : INFO : 2461712470 : Splited data into training and test sets
+2025-05-22 14:13:57,741 : INFO : 2461712470 : (1279, 12)
+2025-05-22 14:13:57,743 : INFO : 2461712470 : (320, 12)
+2025-05-22 14:20:27,496 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 14:20:27,498 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 14:20:27,503 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 14:20:27,506 : INFO : common : created directory at: artifacts
+2025-05-22 14:20:27,508 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 14:20:27,519 : INFO : 3149788957 : Missing values per column:
+fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+dtype: int64
+2025-05-22 14:20:27,528 : INFO : 3149788957 : Number of duplicate rows: 240
+2025-05-22 14:20:27,530 : INFO : 3149788957 : No categorical columns detected.
+2025-05-22 14:20:29,775 : INFO : 3149788957 : Scaled features mean:
+fixed acidity           3.554936e-16
+volatile acidity        1.733031e-16
+citric acid            -8.887339e-17
+residual sugar         -1.244227e-16
+chlorides               2.132961e-16
+free sulfur dioxide    -6.221137e-17
+total sulfur dioxide    4.443669e-17
+density                -3.473172e-14
+pH                      2.861723e-15
+sulphates               6.754377e-16
+alcohol                 1.066481e-16
+quality                 5.636023e+00
+dtype: float64
+2025-05-22 14:20:29,781 : INFO : 3149788957 : Scaled features std dev:
+fixed acidity           1.000313
+volatile acidity        1.000313
+citric acid             1.000313
+residual sugar          1.000313
+chlorides               1.000313
+free sulfur dioxide     1.000313
+total sulfur dioxide    1.000313
+density                 1.000313
+pH                      1.000313
+sulphates               1.000313
+alcohol                 1.000313
+quality                 0.807569
+dtype: float64
+2025-05-22 14:20:34,192 : INFO : 3149788957 : Splited data into training and test sets
+2025-05-22 14:20:34,193 : INFO : 3149788957 : (1279, 12)
+2025-05-22 14:20:34,194 : INFO : 3149788957 : (320, 12)
+2025-05-22 14:32:01,869 : INFO : main : >>01 stageData Ingestion stage started.........<<
+2025-05-22 14:32:01,871 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 14:32:01,872 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 14:32:01,874 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 14:32:01,874 : INFO : common : created directory at: artifacts
+2025-05-22 14:32:01,875 : INFO : common : created directory at: artifacts/data_ingestion
+2025-05-22 14:32:01,876 : INFO : data_ingestion_component : File already exists and size: ~ 26 KB
+2025-05-22 14:32:01,912 : INFO : main : >>stageData Ingestion stage completed.........<<
+
+2025-05-22 14:32:01,913 : INFO : main : >>>>>> stage Data validation stage started <<<<<<
+2025-05-22 14:32:01,916 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 14:32:01,917 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 14:32:01,920 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 14:32:01,921 : INFO : common : created directory at: artifacts
+2025-05-22 14:32:01,922 : INFO : common : created directory at: artifacts/data_validation
+2025-05-22 14:32:01,965 : INFO : main : >>>>>> stage Data validation stage completed <<<<<<
+
+x==========x
+2025-05-22 14:32:01,966 : INFO : main : >>>>>> stage Data Transformation stage started <<<<<<
+2025-05-22 14:32:01,969 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-22 14:32:01,971 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-22 14:32:01,974 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-22 14:32:01,975 : INFO : common : created directory at: artifacts
+2025-05-22 14:32:01,975 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-22 14:32:01,982 : INFO : data_transformation_component : Missing values per column:
+fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+dtype: int64
+2025-05-22 14:32:01,990 : INFO : data_transformation_component : Number of duplicate rows: 240
+2025-05-22 14:32:01,991 : INFO : data_transformation_component : No categorical columns detected.
+2025-05-22 14:32:14,618 : INFO : data_transformation_component : Scaled features mean:
+fixed acidity           3.554936e-16
+volatile acidity        1.733031e-16
+citric acid            -8.887339e-17
+residual sugar         -1.244227e-16
+chlorides               2.132961e-16
+free sulfur dioxide    -6.221137e-17
+total sulfur dioxide    4.443669e-17
+density                -3.473172e-14
+pH                      2.861723e-15
+sulphates               6.754377e-16
+alcohol                 1.066481e-16
+quality                 5.636023e+00
+dtype: float64
+2025-05-22 14:32:14,628 : INFO : data_transformation_component : Scaled features std dev:
+fixed acidity           1.000313
+volatile acidity        1.000313
+citric acid             1.000313
+residual sugar          1.000313
+chlorides               1.000313
+free sulfur dioxide     1.000313
+total sulfur dioxide    1.000313
+density                 1.000313
+pH                      1.000313
+sulphates               1.000313
+alcohol                 1.000313
+quality                 0.807569
+dtype: float64
+2025-05-22 14:32:22,103 : INFO : data_transformation_component : Splited data into training and test sets
+2025-05-22 14:32:22,104 : INFO : data_transformation_component : (1279, 12)
+2025-05-22 14:32:22,104 : INFO : data_transformation_component : (320, 12)
+2025-05-22 14:32:22,106 : INFO : main : >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x
