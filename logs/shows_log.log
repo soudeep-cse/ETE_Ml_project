@@ -522,3 +522,184 @@ dtype: float64
 2025-05-22 14:32:22,106 : INFO : main : >>>>>> stage Data Transformation stage completed <<<<<<
 
 x==========x
+2025-05-25 22:44:10,751 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-25 22:44:10,776 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-25 22:44:10,781 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-25 22:44:10,784 : INFO : common : created directory at: artifacts
+2025-05-25 22:45:00,602 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-25 22:45:00,606 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-25 22:45:00,611 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-25 22:45:00,635 : INFO : common : created directory at: artifacts
+2025-05-25 22:47:15,579 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-25 22:47:15,583 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-25 22:47:15,588 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-25 22:47:15,590 : INFO : common : created directory at: artifacts
+2025-05-25 22:47:15,592 : INFO : common : created directory at: artifacts/data_training
+2025-05-25 22:48:13,823 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-25 22:48:13,827 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-25 22:48:13,831 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-25 22:48:13,834 : INFO : common : created directory at: artifacts
+2025-05-25 22:48:13,835 : INFO : common : created directory at: artifacts/data_training
+2025-05-25 23:00:31,999 : INFO : main : >>01 stageData Ingestion stage started.........<<
+2025-05-25 23:00:32,002 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-25 23:00:32,003 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-25 23:00:32,005 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-25 23:00:32,005 : INFO : common : created directory at: artifacts
+2025-05-25 23:00:32,006 : INFO : common : created directory at: artifacts/data_ingestion
+2025-05-25 23:00:32,007 : INFO : data_ingestion_component : File already exists and size: ~ 26 KB
+2025-05-25 23:00:32,049 : INFO : main : >>stageData Ingestion stage completed.........<<
+
+2025-05-25 23:00:32,049 : INFO : main : >>>>>> stage Data validation stage started <<<<<<
+2025-05-25 23:00:32,054 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-25 23:00:32,056 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-25 23:00:32,059 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-25 23:00:32,060 : INFO : common : created directory at: artifacts
+2025-05-25 23:00:32,060 : INFO : common : created directory at: artifacts/data_validation
+2025-05-25 23:00:32,097 : INFO : main : >>>>>> stage Data validation stage completed <<<<<<
+
+x==========x
+2025-05-25 23:00:32,097 : INFO : main : >>>>>> stage Data Transformation stage started <<<<<<
+2025-05-25 23:00:32,102 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-25 23:00:32,104 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-25 23:00:32,107 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-25 23:00:32,108 : INFO : common : created directory at: artifacts
+2025-05-25 23:00:32,108 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-25 23:00:32,113 : INFO : data_transformation_component : Missing values per column:
+fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+dtype: int64
+2025-05-25 23:00:32,125 : INFO : data_transformation_component : Number of duplicate rows: 240
+2025-05-25 23:00:32,126 : INFO : data_transformation_component : No categorical columns detected.
+2025-05-25 23:00:43,792 : INFO : data_transformation_component : Scaled features mean:
+fixed acidity           3.554936e-16
+volatile acidity        1.733031e-16
+citric acid            -8.887339e-17
+residual sugar         -1.244227e-16
+chlorides               2.132961e-16
+free sulfur dioxide    -6.221137e-17
+total sulfur dioxide    4.443669e-17
+density                -3.473172e-14
+pH                      2.861723e-15
+sulphates               6.754377e-16
+alcohol                 1.066481e-16
+quality                 5.636023e+00
+dtype: float64
+2025-05-25 23:00:43,803 : INFO : data_transformation_component : Scaled features std dev:
+fixed acidity           1.000313
+volatile acidity        1.000313
+citric acid             1.000313
+residual sugar          1.000313
+chlorides               1.000313
+free sulfur dioxide     1.000313
+total sulfur dioxide    1.000313
+density                 1.000313
+pH                      1.000313
+sulphates               1.000313
+alcohol                 1.000313
+quality                 0.807569
+dtype: float64
+2025-05-25 23:00:50,477 : INFO : data_transformation_component : Splited data into training and test sets
+2025-05-25 23:00:50,478 : INFO : data_transformation_component : (1279, 12)
+2025-05-25 23:00:50,478 : INFO : data_transformation_component : (320, 12)
+2025-05-25 23:00:50,479 : INFO : main : >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x
+2025-05-25 23:00:50,479 : INFO : main : >>>>>> stage Model Trainer stage started <<<<<<
+2025-05-25 23:00:50,480 : ERROR : main : main() takes 0 positional arguments but 1 was given
+Traceback (most recent call last):
+  File "D:\Machine_learning\ETE_Ml_project\main.py", line 48, in <module>
+    obj.main()
+TypeError: main() takes 0 positional arguments but 1 was given
+2025-05-25 23:02:01,295 : INFO : main : >>01 stageData Ingestion stage started.........<<
+2025-05-25 23:02:01,298 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-25 23:02:01,299 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-25 23:02:01,301 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-25 23:02:01,302 : INFO : common : created directory at: artifacts
+2025-05-25 23:02:01,302 : INFO : common : created directory at: artifacts/data_ingestion
+2025-05-25 23:02:01,303 : INFO : data_ingestion_component : File already exists and size: ~ 26 KB
+2025-05-25 23:02:01,306 : INFO : main : >>stageData Ingestion stage completed.........<<
+
+2025-05-25 23:02:01,307 : INFO : main : >>>>>> stage Data validation stage started <<<<<<
+2025-05-25 23:02:01,309 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-25 23:02:01,310 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-25 23:02:01,312 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-25 23:02:01,313 : INFO : common : created directory at: artifacts
+2025-05-25 23:02:01,313 : INFO : common : created directory at: artifacts/data_validation
+2025-05-25 23:02:01,350 : INFO : main : >>>>>> stage Data validation stage completed <<<<<<
+
+x==========x
+2025-05-25 23:02:01,351 : INFO : main : >>>>>> stage Data Transformation stage started <<<<<<
+2025-05-25 23:02:01,354 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-25 23:02:01,355 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-25 23:02:01,358 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-25 23:02:01,359 : INFO : common : created directory at: artifacts
+2025-05-25 23:02:01,360 : INFO : common : created directory at: artifacts/data_transformation
+2025-05-25 23:02:01,365 : INFO : data_transformation_component : Missing values per column:
+fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+dtype: int64
+2025-05-25 23:02:01,372 : INFO : data_transformation_component : Number of duplicate rows: 240
+2025-05-25 23:02:01,373 : INFO : data_transformation_component : No categorical columns detected.
+2025-05-25 23:02:04,561 : INFO : data_transformation_component : Scaled features mean:
+fixed acidity           3.554936e-16
+volatile acidity        1.733031e-16
+citric acid            -8.887339e-17
+residual sugar         -1.244227e-16
+chlorides               2.132961e-16
+free sulfur dioxide    -6.221137e-17
+total sulfur dioxide    4.443669e-17
+density                -3.473172e-14
+pH                      2.861723e-15
+sulphates               6.754377e-16
+alcohol                 1.066481e-16
+quality                 5.636023e+00
+dtype: float64
+2025-05-25 23:02:04,569 : INFO : data_transformation_component : Scaled features std dev:
+fixed acidity           1.000313
+volatile acidity        1.000313
+citric acid             1.000313
+residual sugar          1.000313
+chlorides               1.000313
+free sulfur dioxide     1.000313
+total sulfur dioxide    1.000313
+density                 1.000313
+pH                      1.000313
+sulphates               1.000313
+alcohol                 1.000313
+quality                 0.807569
+dtype: float64
+2025-05-25 23:02:11,052 : INFO : data_transformation_component : Splited data into training and test sets
+2025-05-25 23:02:11,053 : INFO : data_transformation_component : (1279, 12)
+2025-05-25 23:02:11,053 : INFO : data_transformation_component : (320, 12)
+2025-05-25 23:02:11,055 : INFO : main : >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x
+2025-05-25 23:02:11,056 : INFO : main : >>>>>> stage Model Trainer stage started <<<<<<
+2025-05-25 23:02:11,061 : INFO : common : yaml file: config\config.yaml loaded successfully
+2025-05-25 23:02:11,063 : INFO : common : yaml file: params.yaml loaded successfully
+2025-05-25 23:02:11,065 : INFO : common : yaml file: schema.yaml loaded successfully
+2025-05-25 23:02:11,067 : INFO : common : created directory at: artifacts
+2025-05-25 23:02:11,067 : INFO : common : created directory at: artifacts/data_training
+2025-05-25 23:02:11,215 : INFO : main : >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x
