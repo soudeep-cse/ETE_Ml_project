@@ -33,5 +33,17 @@ class ModelTrainerConfig:
     l1_ratio: float
     target_column: str
 
+from dataclasses import dataclass
+from pathlib import Path
+
+@dataclass(frozen=True)
+class ModelEvaluationConfig:
+    root_dir:Path
+    test_data_path:Path
+    model_path:Path
+    metric_file_name:Path
+    all_params: dict
+    target_column:str
+
 
     
