@@ -812,3 +812,197 @@ x==========x
 2025-05-25 23:50:30,556 : INFO : main : >>>>>> stage Model evaluation stage completed <<<<<<
 
 x==========x
+2025-05-26 01:21:31,836 : ERROR : utils : Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-05-26 01:26:29,654 : ERROR : utils : Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-05-26 09:18:01,277 : ERROR : utils : Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-05-26 10:46:15,611 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.237:8080
+2025-05-26 10:46:15,612 : INFO : _internal : [33mPress CTRL+C to quit[0m
+2025-05-26 10:46:29,033 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:46:29] "GET / HTTP/1.1" 200 -
+2025-05-26 10:46:29,829 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:46:29] "GET /static/css2/style.css HTTP/1.1" 200 -
+2025-05-26 10:46:29,829 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:46:29] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -
+2025-05-26 10:46:29,830 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:46:29] "GET /static/js/scripts.js HTTP/1.1" 200 -
+2025-05-26 10:46:29,834 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:46:29] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-05-26 10:46:30,057 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:46:30] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -
+2025-05-26 10:46:30,077 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:46:30] "GET /static/assets/img/form-v9.jpg HTTP/1.1" 200 -
+2025-05-26 10:46:30,102 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:46:30] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -
+2025-05-26 10:46:30,295 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:46:30] "GET /static/assets/favicon.ico HTTP/1.1" 200 -
+2025-05-26 10:46:57,205 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:46:57] "POST /predict HTTP/1.1" 200 -
+2025-05-26 10:46:57,260 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:46:57] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 10:46:57,262 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:46:57] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 10:46:57,296 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:46:57] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -
+2025-05-26 10:47:10,027 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:47:10] "GET / HTTP/1.1" 200 -
+2025-05-26 10:47:10,076 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:47:10] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 10:47:10,079 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:47:10] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -
+2025-05-26 10:47:10,085 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:47:10] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -
+2025-05-26 10:47:10,087 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:47:10] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 10:47:10,108 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:47:10] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -
+2025-05-26 10:47:10,111 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:47:10] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -
+2025-05-26 10:47:10,116 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:47:10] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -
+2025-05-26 10:49:15,085 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.237:8080
+2025-05-26 10:49:15,085 : INFO : _internal : [33mPress CTRL+C to quit[0m
+2025-05-26 10:49:23,979 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:49:23] "GET / HTTP/1.1" 200 -
+2025-05-26 10:49:24,914 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:49:24] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 10:49:24,916 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:49:24] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -
+2025-05-26 10:49:24,918 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:49:24] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 10:49:24,924 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:49:24] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -
+2025-05-26 10:49:24,942 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:49:24] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -
+2025-05-26 10:49:25,019 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:49:25] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -
+2025-05-26 10:49:25,044 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:49:25] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -
+2025-05-26 10:50:02,391 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:50:02] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 10:50:02,395 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:50:02] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -
+2025-05-26 10:50:02,397 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:50:02] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -
+2025-05-26 10:54:15,222 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:15] "GET / HTTP/1.1" 200 -
+2025-05-26 10:54:15,291 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:15] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 10:54:15,295 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:15] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -
+2025-05-26 10:54:15,298 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:15] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -
+2025-05-26 10:54:15,304 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:15] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 10:54:15,375 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:15] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -
+2025-05-26 10:54:15,379 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:15] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -
+2025-05-26 10:54:15,390 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:15] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -
+2025-05-26 10:54:15,461 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:15] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-26 10:54:31,309 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.237:8080
+2025-05-26 10:54:31,310 : INFO : _internal : [33mPress CTRL+C to quit[0m
+2025-05-26 10:54:42,775 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:42] "GET / HTTP/1.1" 200 -
+2025-05-26 10:54:44,165 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:44] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -
+2025-05-26 10:54:44,168 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:44] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -
+2025-05-26 10:54:44,169 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:44] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 10:54:44,173 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:44] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 10:54:44,217 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:44] "GET /static/assets/img/form-v1.jpeg HTTP/1.1" 200 -
+2025-05-26 10:54:44,264 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:44] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -
+2025-05-26 10:54:44,312 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:54:44] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -
+2025-05-26 10:55:14,772 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.237:8080
+2025-05-26 10:55:14,773 : INFO : _internal : [33mPress CTRL+C to quit[0m
+2025-05-26 10:55:23,216 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:55:23] "GET / HTTP/1.1" 200 -
+2025-05-26 10:55:24,214 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:55:24] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -
+2025-05-26 10:55:24,217 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:55:24] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 10:55:24,220 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:55:24] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -
+2025-05-26 10:55:24,222 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:55:24] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 10:55:24,241 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:55:24] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -
+2025-05-26 10:55:24,301 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:55:24] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -
+2025-05-26 10:55:24,323 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:55:24] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -
+2025-05-26 10:57:06,312 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.237:8080
+2025-05-26 10:57:06,313 : INFO : _internal : [33mPress CTRL+C to quit[0m
+2025-05-26 10:57:13,634 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:57:13] "GET / HTTP/1.1" 200 -
+2025-05-26 10:57:14,833 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:57:14] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -
+2025-05-26 10:57:14,838 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:57:14] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 10:57:14,846 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:57:14] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 10:57:14,852 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:57:14] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -
+2025-05-26 10:57:14,901 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:57:14] "GET /static/assets/img/wine.jpeg HTTP/1.1" 200 -
+2025-05-26 10:57:14,979 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:57:14] "[36mGET /static/assets/img/form-v1.jpeg HTTP/1.1[0m" 304 -
+2025-05-26 10:57:15,015 : INFO : _internal : 192.168.0.237 - - [26/May/2025 10:57:15] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -
+2025-05-26 11:01:47,940 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.237:8080
+2025-05-26 11:01:47,941 : INFO : _internal : [33mPress CTRL+C to quit[0m
+2025-05-26 11:01:57,475 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:01:57] "GET / HTTP/1.1" 200 -
+2025-05-26 11:01:58,823 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:01:58] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 11:01:58,832 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:01:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 11:01:58,838 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:01:58] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -
+2025-05-26 11:01:58,858 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:01:58] "[36mGET /static/assets/img/wine.jpeg HTTP/1.1[0m" 304 -
+2025-05-26 11:01:58,866 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:01:58] "GET /static/css2/style.css HTTP/1.1" 200 -
+2025-05-26 11:01:58,940 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:01:58] "[36mGET /static/assets/img/form-v1.jpeg HTTP/1.1[0m" 304 -
+2025-05-26 11:01:58,966 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:01:58] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -
+2025-05-26 11:02:17,659 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:02:17] "GET / HTTP/1.1" 200 -
+2025-05-26 11:02:17,779 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:02:17] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 11:02:17,788 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:02:17] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -
+2025-05-26 11:02:17,790 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:02:17] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 11:02:17,835 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:02:17] "GET /static/css2/style.css HTTP/1.1" 200 -
+2025-05-26 11:02:17,846 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:02:17] "[36mGET /static/assets/img/wine.jpeg HTTP/1.1[0m" 304 -
+2025-05-26 11:02:17,863 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:02:17] "[36mGET /static/assets/img/form-v1.jpeg HTTP/1.1[0m" 304 -
+2025-05-26 11:02:17,869 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:02:17] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -
+2025-05-26 11:02:17,905 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:02:17] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-26 11:03:50,222 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:50] "GET / HTTP/1.1" 200 -
+2025-05-26 11:03:50,274 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:50] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -
+2025-05-26 11:03:50,276 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:50] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -
+2025-05-26 11:03:50,278 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:50] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 11:03:50,283 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:50] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 11:03:50,316 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:50] "[36mGET /static/assets/img/wine.jpeg HTTP/1.1[0m" 304 -
+2025-05-26 11:03:50,317 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:50] "[36mGET /static/assets/img/form-v1.jpeg HTTP/1.1[0m" 304 -
+2025-05-26 11:03:50,321 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:50] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -
+2025-05-26 11:03:50,413 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:50] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-26 11:03:53,767 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:53] "GET / HTTP/1.1" 200 -
+2025-05-26 11:03:53,835 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:53] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 11:03:53,843 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:53] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -
+2025-05-26 11:03:53,849 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:53] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -
+2025-05-26 11:03:53,851 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:53] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 11:03:53,859 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:53] "[36mGET /static/assets/img/wine.jpeg HTTP/1.1[0m" 304 -
+2025-05-26 11:03:53,895 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:53] "[36mGET /static/assets/img/form-v1.jpeg HTTP/1.1[0m" 304 -
+2025-05-26 11:03:53,942 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:53] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -
+2025-05-26 11:03:53,973 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:53] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-26 11:03:54,131 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:54] "GET / HTTP/1.1" 200 -
+2025-05-26 11:03:54,195 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:54] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 11:03:54,202 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:54] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -
+2025-05-26 11:03:54,206 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:54] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -
+2025-05-26 11:03:54,210 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:54] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 11:03:54,233 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:54] "[36mGET /static/assets/img/wine.jpeg HTTP/1.1[0m" 304 -
+2025-05-26 11:03:54,235 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:54] "[36mGET /static/assets/img/form-v1.jpeg HTTP/1.1[0m" 304 -
+2025-05-26 11:03:54,240 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:54] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -
+2025-05-26 11:03:54,324 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:03:54] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-26 11:04:10,374 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.237:8080
+2025-05-26 11:04:10,375 : INFO : _internal : [33mPress CTRL+C to quit[0m
+2025-05-26 11:04:17,577 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:04:17] "GET / HTTP/1.1" 200 -
+2025-05-26 11:04:18,635 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:04:18] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 11:04:18,636 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:04:18] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -
+2025-05-26 11:04:18,638 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:04:18] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 11:04:18,652 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:04:18] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -
+2025-05-26 11:04:18,670 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:04:18] "[36mGET /static/assets/img/wine.jpeg HTTP/1.1[0m" 304 -
+2025-05-26 11:04:18,796 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:04:18] "GET /static/assets/img/form-v2.jpeg HTTP/1.1" 200 -
+2025-05-26 11:04:18,806 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:04:18] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -
+2025-05-26 11:05:05,969 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:05:05] "POST /predict HTTP/1.1" 200 -
+2025-05-26 11:05:06,039 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:05:06] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 11:05:06,040 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:05:06] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 11:05:06,075 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:05:06] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -
+2025-05-26 11:06:12,364 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.237:8080
+2025-05-26 11:06:12,365 : INFO : _internal : [33mPress CTRL+C to quit[0m
+2025-05-26 11:06:23,753 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:06:23] "POST /predict HTTP/1.1" 200 -
+2025-05-26 11:06:24,338 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:06:24] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 11:06:24,364 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:06:24] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 11:06:24,383 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:06:24] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -
+2025-05-26 11:06:24,421 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:06:24] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -
+2025-05-26 11:17:36,865 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.237:8080
+2025-05-26 11:17:36,865 : INFO : _internal : [33mPress CTRL+C to quit[0m
+2025-05-26 11:17:46,702 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:17:46] "GET / HTTP/1.1" 200 -
+2025-05-26 11:17:49,960 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:17:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-26 11:17:49,962 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:17:49] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -
+2025-05-26 11:17:49,966 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:17:49] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -
+2025-05-26 11:17:49,969 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:17:49] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2025-05-26 11:17:49,994 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:17:49] "[36mGET /static/assets/img/wine.jpeg HTTP/1.1[0m" 304 -
+2025-05-26 11:17:50,104 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:17:50] "[36mGET /static/assets/img/form-v2.jpeg HTTP/1.1[0m" 304 -
+2025-05-26 11:17:50,141 : INFO : _internal : 192.168.0.237 - - [26/May/2025 11:17:50] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -
